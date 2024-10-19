@@ -1,1 +1,11 @@
 /* your code here */
+.logo_name {
+	color: white;
+	text-transform: uppercase;
+}
+.top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: black;
+}
